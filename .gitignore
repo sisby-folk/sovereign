@@ -1,0 +1,12 @@
+*.cls
+*.bas
+*.frm
+*.frx
+*.doccls
+*.directory
+!Svn*.bas
+!Svn*.cls
+!Svn*.frm
+!Svn*.frx
+/.idea/
+/Folder.DotSettings.user
